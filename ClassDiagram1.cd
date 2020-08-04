@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CadenaDeResponsabilidad.Clases.Aprobador">
+    <Position X="7.25" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAgAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Aprobador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CadenaDeResponsabilidad.Clases.Compra">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Compra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CadenaDeResponsabilidad.Clases.Comprador">
+    <Position X="4.25" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Comprador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CadenaDeResponsabilidad.Clases.Director">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Director.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CadenaDeResponsabilidad.Clases.DirectorGneral">
+    <Position X="10.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\DirectorGneral.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CadenaDeResponsabilidad.Clases.Gerente">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Gerente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CadenaDeResponsabilidad.Program">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
